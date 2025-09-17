@@ -44,7 +44,7 @@ function App() {
 
       <div className="experience">
         <h1>Experience</h1>
-        <p id="exp">Java, Javascript, JQuery, CSS, HTML5 & Python</p>
+        <p id="exp">Java, Javascript, JQuery, CSS, HTML5 and Python</p>
       </div>
 
       <div className="education" width="100">
