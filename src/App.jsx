@@ -17,7 +17,6 @@ function App() {
     <>
       <div id="nameAbout">
         <h1>Nikola Dimitrov</h1>
-
           <p>I’m a 16-year-old from Canada in my final year of highschool. I began my software development journey in 2019 and I plan to study Computer Engineering at Carleton University.</p>     
       </div>
 
